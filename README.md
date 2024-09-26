@@ -18,6 +18,6 @@ Referência: https://www.kaggle.com/sakshigoyal7/credit-card-customers
   - Quanto mais transações e quanto maior o valor da transação menor a chance do cliente cancelar;
   - Quanto maior a quantidade de contatos a pessoa teve que fazer, maior a chance de cancelamento.
 
-#Propostas levantas com base nas análises
+# Propostas levantas com base nas análises
   - Criar programas de incentivos que levem o cliente a usar mais o cartão ou utilizar valores mais maiores, pois quanto mais o cartão é utilizado, menor a chance de cancelamento;
   - Entender os contatos que os clientes fizeram, para ter um entendimento das demandas que levaram ao cancelamento.
